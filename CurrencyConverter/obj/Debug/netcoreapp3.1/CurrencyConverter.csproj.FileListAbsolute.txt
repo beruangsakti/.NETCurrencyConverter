@@ -1,0 +1,15 @@
+G:\0.Kuliah_S6_2021\PBKK\Tugas-2-Net_Framework\Program\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.exe
+G:\0.Kuliah_S6_2021\PBKK\Tugas-2-Net_Framework\Program\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.deps.json
+G:\0.Kuliah_S6_2021\PBKK\Tugas-2-Net_Framework\Program\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.runtimeconfig.json
+G:\0.Kuliah_S6_2021\PBKK\Tugas-2-Net_Framework\Program\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.runtimeconfig.dev.json
+G:\0.Kuliah_S6_2021\PBKK\Tugas-2-Net_Framework\Program\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.dll
+G:\0.Kuliah_S6_2021\PBKK\Tugas-2-Net_Framework\Program\CurrencyConverter\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.pdb
+G:\0.Kuliah_S6_2021\PBKK\Tugas-2-Net_Framework\Program\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.csprojAssemblyReference.cache
+G:\0.Kuliah_S6_2021\PBKK\Tugas-2-Net_Framework\Program\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.Form1.resources
+G:\0.Kuliah_S6_2021\PBKK\Tugas-2-Net_Framework\Program\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.csproj.GenerateResource.cache
+G:\0.Kuliah_S6_2021\PBKK\Tugas-2-Net_Framework\Program\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.AssemblyInfoInputs.cache
+G:\0.Kuliah_S6_2021\PBKK\Tugas-2-Net_Framework\Program\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.AssemblyInfo.cs
+G:\0.Kuliah_S6_2021\PBKK\Tugas-2-Net_Framework\Program\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.csproj.CoreCompileInputs.cache
+G:\0.Kuliah_S6_2021\PBKK\Tugas-2-Net_Framework\Program\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.dll
+G:\0.Kuliah_S6_2021\PBKK\Tugas-2-Net_Framework\Program\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.pdb
+G:\0.Kuliah_S6_2021\PBKK\Tugas-2-Net_Framework\Program\CurrencyConverter\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.genruntimeconfig.cache
